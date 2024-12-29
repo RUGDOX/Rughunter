@@ -1,3 +1,5 @@
+
+
 RugHunter: Revolutionizing Web3 Safety
 
 RugHunter is a groundbreaking solution transforming security within the decentralized ecosystem. Engineered to shield users from scams and fraudulent activities, RugHunter operates directly on the user’s device, delivering unmatched privacy, security, and proactive defense against emerging threats. Integrated with the Rugd Chain (Chain ID: 1991), RugHunter brings trust and accountability to the forefront of web3.
