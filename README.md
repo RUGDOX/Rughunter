@@ -54,6 +54,6 @@
     This is more than a tool—it’s the foundation for a safer, more accountable, and trustworthy web3. Together, we’re building a future where innovation thrives, scams are eradicated, and trust is restored.
 </p>
 <BR><BR>
-"We are very excited for the future and look forward to letting this monster loose and bring accountability back to web3!"
+"We are very excited for the future and look forward to letting this monster loose to finally bring integrity and accountability back to web3!"
 <br><br>
 -Rughunter Team-
