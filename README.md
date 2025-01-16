@@ -1,5 +1,7 @@
+<img src="rh1.png" width=50%></img>
+<P>
 <h1>Rughunter: Redefining Security in Web3</h1>
-
+<TT>|-- coming soon --|</TT>
 <h2>How Rughunter Works</h2>
 <ol>
     <li>
@@ -51,3 +53,7 @@
 <p>
     This is more than a tool—it’s the foundation for a safer, more accountable, and trustworthy web3. Together, we’re building a future where innovation thrives, scams are eradicated, and trust is restored.
 </p>
+<BR><BR>
+"We are very excited for the future and look forward to letting this monster loose and bring accountability back to web3!"
+<br><br>
+-Rughunter Team-
